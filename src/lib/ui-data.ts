@@ -1,0 +1,5 @@
+// Browser-safe definitions: this module must never import server modules.
+export { };
+export {brandDefaults as defaults} from './brand';
+export const labels:Record<string,string>={CREATED:'Создан',AWAITING_PAYMENT:'Ожидает оплаты',PAYMENT_REVIEW:'Проверка оплаты',PAID:'Оплачен',AWAITING_ASSEMBLY:'Ожидает сборки',ASSEMBLING:'Собирается',ASSEMBLED:'Собран',READY:'Готов к самовывозу',SHIPPED:'Отправлен',DELIVERED:'Доставлен',COMPLETED:'Завершён',CANCELED:'Отменён',ATTENTION:'Требует вмешательства',REFUND:'Возврат',PENDING:'Ожидает подтверждения',SUCCEEDED:'Подтверждён',REFUNDED:'Возвращён'};
+export const transitions:Record<string,string[]>={CREATED:['AWAITING_PAYMENT','CANCELED'],AWAITING_PAYMENT:['CANCELED','ATTENTION'],PAYMENT_REVIEW:['CANCELED','ATTENTION'],PAID:['AWAITING_ASSEMBLY','ASSEMBLING','ATTENTION'],AWAITING_ASSEMBLY:['ASSEMBLING','ATTENTION'],ASSEMBLING:['ASSEMBLED','ATTENTION'],ASSEMBLED:['READY','SHIPPED','ATTENTION'],READY:['COMPLETED','ATTENTION'],SHIPPED:['DELIVERED','ATTENTION'],DELIVERED:['COMPLETED','ATTENTION'],COMPLETED:['ATTENTION'],CANCELED:['ATTENTION'],ATTENTION:[],REFUND:['ATTENTION']};

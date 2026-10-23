@@ -1,0 +1,5 @@
+export type Variant = { id:string; name:string; sku:string; price:number; discount:number; available:number };
+export type Product = { id:string; name:string; description:string; categoryId:string|null; category?:Category|null; categoryTags?:{categoryId:string;category:Category}[]; isNew?:boolean; attributes:Record<string,string>; images:{id:string;url:string;alt:string}[]; variants:Variant[]; featured:boolean; recommended:boolean; createdAt:string|Date };
+export type Category = {id:string;name:string;parentId:string|null;slug?:string;description?:string;image?:string};
+export type StoreUser = {id:string;name:string;username:string|null;email:string|null;role:string;permissions:string[];notifications:boolean;botLinked:boolean};
+export type StoreConfig = Record<string,unknown> & {name:string;tagline:string;heroTitle:string;heroText:string;primary:string;secondary:string;buttonColor:string;logo:string;banner:string;favicon:string;telegram:string;socials:string;leftLabel:string;leftEnabled:boolean;rightLabel:string;rightEnabled:boolean;cardLabel:string;cardEnabled:boolean;demoCatalog:boolean};

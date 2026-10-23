@@ -1,0 +1,228 @@
+[
+  {
+    "key": "ps5-slim",
+    "name": "PlayStation 5 Slim",
+    "price": 7548000,
+    "cost": 4906200,
+    "discount": 0,
+    "stock": 20,
+    "category": "playstation",
+    "categoryIds": [
+      "playstation"
+    ],
+    "description": "Консоль PlayStation 5 Slim из каталога GamePlanet.\nЦена перенесена с предоставленного скриншота каталога GamePlanet. Актуальные наличие, комплектацию, характеристики и условия гарантии уточняйте у магазина.\nЭто демонстрация сайта: остатки и оформление заказов учебные, реальные платежи не выполняются.",
+    "variant": "PS5 Slim",
+    "attributes": {
+      "Формат": "PS5 Slim",
+      "Вариант": "Белый",
+      "Источник": "Каталог ВК · скриншоты пользователя"
+    },
+    "image": "/assets/products/ps5-slim.png"
+  },
+  {
+    "key": "xbox-series-s",
+    "name": "Xbox Series S",
+    "price": 3248000,
+    "cost": 2111200,
+    "discount": 0,
+    "stock": 20,
+    "category": "xbox",
+    "categoryIds": [
+      "xbox"
+    ],
+    "description": "Компактная Xbox Series S в белом корпусе. На предоставленном изображении показана коробка версии 512 ГБ.\nЦена перенесена с предоставленного скриншота каталога GamePlanet. Актуальные наличие, комплектацию, характеристики и условия гарантии уточняйте у магазина.\nЭто демонстрация сайта: остатки и оформление заказов учебные, реальные платежи не выполняются.",
+    "variant": "Xbox Series S",
+    "attributes": {
+      "Формат": "Xbox Series S",
+      "Вариант": "Белый",
+      "Источник": "Каталог ВК · скриншоты пользователя"
+    },
+    "image": "/assets/products/xbox-series-s.webp"
+  },
+  {
+    "key": "xbox-series-x",
+    "name": "Xbox Series X",
+    "price": 6198000,
+    "cost": 4028700,
+    "discount": 0,
+    "stock": 20,
+    "category": "xbox",
+    "categoryIds": [
+      "xbox"
+    ],
+    "description": "Xbox Series X в чёрном корпусе. На изображении каталога показана коробка версии 1 ТБ.\nЦена перенесена с предоставленного скриншота каталога GamePlanet. Актуальные наличие, комплектацию, характеристики и условия гарантии уточняйте у магазина.\nЭто демонстрация сайта: остатки и оформление заказов учебные, реальные платежи не выполняются.",
+    "variant": "Xbox Series X",
+    "attributes": {
+      "Формат": "Xbox Series X",
+      "Вариант": "Чёрный",
+      "Источник": "Каталог ВК · скриншоты пользователя"
+    },
+    "image": "/assets/products/xbox-series-x.webp"
+  },
+  {
+    "key": "dualsense-purple",
+    "name": "Контроллер DualSense Galactic Purple",
+    "price": 728000,
+    "cost": 473200,
+    "discount": 0,
+    "stock": 20,
+    "category": "accessories",
+    "categoryIds": [
+      "accessories",
+      "playstation"
+    ],
+    "description": "Фиолетовый контроллер DualSense из подборки магазина.\nЦена перенесена с предоставленного скриншота каталога GamePlanet. Актуальные наличие, комплектацию, характеристики и условия гарантии уточняйте у магазина.\nЭто демонстрация сайта: остатки и оформление заказов учебные, реальные платежи не выполняются.",
+    "variant": "DualSense",
+    "attributes": {
+      "Формат": "DualSense",
+      "Вариант": "Galactic Purple",
+      "Источник": "Каталог ВК · скриншоты пользователя"
+    },
+    "image": "/assets/products/dualsense-purple.webp"
+  },
+  {
+    "key": "dualsense-red",
+    "name": "Контроллер DualSense Red",
+    "price": 728000,
+    "cost": 473200,
+    "discount": 0,
+    "stock": 20,
+    "category": "accessories",
+    "categoryIds": [
+      "accessories",
+      "playstation"
+    ],
+    "description": "Красный контроллер DualSense из каталога GamePlanet.\nЦена перенесена с предоставленного скриншота каталога GamePlanet. Актуальные наличие, комплектацию, характеристики и условия гарантии уточняйте у магазина.\nЭто демонстрация сайта: остатки и оформление заказов учебные, реальные платежи не выполняются.",
+    "variant": "DualSense",
+    "attributes": {
+      "Формат": "DualSense",
+      "Вариант": "Red",
+      "Источник": "Каталог ВК · скриншоты пользователя"
+    },
+    "image": "/assets/products/dualsense-red.webp"
+  },
+  {
+    "key": "dualsense-black",
+    "name": "Контроллер DualSense Black",
+    "price": 728000,
+    "cost": 473200,
+    "discount": 0,
+    "stock": 20,
+    "category": "accessories",
+    "categoryIds": [
+      "accessories",
+      "playstation"
+    ],
+    "description": "Чёрный контроллер DualSense из каталога GamePlanet.\nЦена перенесена с предоставленного скриншота каталога GamePlanet. Актуальные наличие, комплектацию, характеристики и условия гарантии уточняйте у магазина.\nЭто демонстрация сайта: остатки и оформление заказов учебные, реальные платежи не выполняются.",
+    "variant": "DualSense",
+    "attributes": {
+      "Формат": "DualSense",
+      "Вариант": "Black",
+      "Источник": "Каталог ВК · скриншоты пользователя"
+    },
+    "image": "/assets/products/dualsense-black.webp"
+  },
+  {
+    "key": "pulse-3d-black",
+    "name": "Гарнитура Pulse 3D Black",
+    "price": 1098000,
+    "cost": 713700,
+    "discount": 0,
+    "stock": 20,
+    "category": "accessories",
+    "categoryIds": [
+      "accessories",
+      "playstation"
+    ],
+    "description": "Игровая гарнитура Pulse 3D в чёрном цвете.\nЦена перенесена с предоставленного скриншота каталога GamePlanet. Актуальные наличие, комплектацию, характеристики и условия гарантии уточняйте у магазина.\nЭто демонстрация сайта: остатки и оформление заказов учебные, реальные платежи не выполняются.",
+    "variant": "Pulse 3D",
+    "attributes": {
+      "Формат": "Pulse 3D",
+      "Вариант": "Black",
+      "Источник": "Каталог ВК · скриншоты пользователя"
+    },
+    "image": "/assets/products/pulse-3d-black.webp"
+  },
+  {
+    "key": "switch-lite",
+    "name": "Nintendo Switch Lite",
+    "price": 1798000,
+    "cost": 1168700,
+    "discount": 0,
+    "stock": 20,
+    "category": "nintendo",
+    "categoryIds": [
+      "nintendo"
+    ],
+    "description": "Портативная Nintendo Switch Lite. На скриншоте каталога показана коралловая консоль в упаковке.\nЦена перенесена с предоставленного скриншота каталога GamePlanet. Актуальные наличие, комплектацию, характеристики и условия гарантии уточняйте у магазина.\nЭто демонстрация сайта: остатки и оформление заказов учебные, реальные платежи не выполняются.",
+    "variant": "Nintendo Switch Lite",
+    "attributes": {
+      "Формат": "Nintendo Switch Lite",
+      "Вариант": "Коралловый",
+      "Источник": "Каталог ВК · скриншоты пользователя"
+    },
+    "image": "/assets/products/switch-lite.webp"
+  },
+  {
+    "key": "sega-millenium",
+    "name": "Sega Millenium",
+    "price": 268000,
+    "cost": 174200,
+    "discount": 0,
+    "stock": 20,
+    "category": "retro",
+    "categoryIds": [
+      "retro"
+    ],
+    "description": "Ретро-консоль Sega Millenium. На изображении упаковки указано: 16 бит, 220 игр.\nЦена перенесена с предоставленного скриншота каталога GamePlanet. Актуальные наличие, комплектацию, характеристики и условия гарантии уточняйте у магазина.\nЭто демонстрация сайта: остатки и оформление заказов учебные, реальные платежи не выполняются.",
+    "variant": "16-битная консоль",
+    "attributes": {
+      "Формат": "16-битная консоль",
+      "Вариант": "Чёрный",
+      "Источник": "Каталог ВК · скриншоты пользователя"
+    },
+    "image": "/assets/products/sega-millenium.webp"
+  },
+  {
+    "key": "gamewatch-mario",
+    "name": "Nintendo Game & Watch: Super Mario Bros.",
+    "price": 588000,
+    "cost": 382200,
+    "discount": 0,
+    "stock": 20,
+    "category": "nintendo",
+    "categoryIds": [
+      "nintendo",
+      "retro"
+    ],
+    "description": "Портативная Game & Watch в оформлении Super Mario Bros.\nЦена перенесена с предоставленного скриншота каталога GamePlanet. Актуальные наличие, комплектацию, характеристики и условия гарантии уточняйте у магазина.\nЭто демонстрация сайта: остатки и оформление заказов учебные, реальные платежи не выполняются.",
+    "variant": "Game & Watch",
+    "attributes": {
+      "Формат": "Game & Watch",
+      "Вариант": "Super Mario Bros.",
+      "Источник": "Каталог ВК · скриншоты пользователя"
+    },
+    "image": "/assets/products/gamewatch-mario.webp"
+  },
+  {
+    "key": "gamewatch-zelda",
+    "name": "Nintendo Game & Watch: The Legend of Zelda",
+    "price": 548000,
+    "cost": 356200,
+    "discount": 0,
+    "stock": 20,
+    "category": "nintendo",
+    "categoryIds": [
+      "nintendo",
+      "retro"
+    ],
+    "description": "Портативная Game & Watch в оформлении The Legend of Zelda.\nЦена перенесена с предоставленного скриншота каталога GamePlanet. Актуальные наличие, комплектацию, характеристики и условия гарантии уточняйте у магазина.\nЭто демонстрация сайта: остатки и оформление заказов учебные, реальные платежи не выполняются.",
+    "variant": "Game & Watch",
+    "attributes": {
+      "Формат": "Game & Watch",
+      "Вариант": "The Legend of Zelda",
+      "Источник": "Каталог ВК · скриншоты пользователя"
+    },
+    "image": "/assets/products/gamewatch-zelda.webp"
+  }
+]

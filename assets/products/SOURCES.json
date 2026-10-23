@@ -1,0 +1,111 @@
+{
+  "source": "Screenshots supplied by the user, 23 October 2026",
+  "processing": "Lossless rectangular extraction; product appearance not regenerated",
+  "images": [
+    {
+      "id": "xbox-series-s",
+      "photo": 1,
+      "rectangle": {
+        "left": 16,
+        "top": 230,
+        "width": 270,
+        "height": 274
+      }
+    },
+    {
+      "id": "xbox-series-x",
+      "photo": 1,
+      "rectangle": {
+        "left": 303,
+        "top": 230,
+        "width": 270,
+        "height": 274
+      }
+    },
+    {
+      "id": "pulse-3d-black",
+      "photo": 1,
+      "rectangle": {
+        "left": 303,
+        "top": 669,
+        "width": 270,
+        "height": 282
+      }
+    },
+    {
+      "id": "dualsense-purple",
+      "photo": 3,
+      "rectangle": {
+        "left": 16,
+        "top": 300,
+        "width": 270,
+        "height": 270
+      }
+    },
+    {
+      "id": "dualsense-red",
+      "photo": 3,
+      "rectangle": {
+        "left": 303,
+        "top": 300,
+        "width": 270,
+        "height": 270
+      }
+    },
+    {
+      "id": "dualsense-black",
+      "photo": 3,
+      "rectangle": {
+        "left": 16,
+        "top": 748,
+        "width": 270,
+        "height": 270
+      }
+    },
+    {
+      "id": "sega-millenium",
+      "photo": 3,
+      "rectangle": {
+        "left": 303,
+        "top": 748,
+        "width": 270,
+        "height": 270
+      }
+    },
+    {
+      "id": "switch-lite",
+      "photo": 4,
+      "rectangle": {
+        "left": 16,
+        "top": 355,
+        "width": 270,
+        "height": 273
+      }
+    },
+    {
+      "id": "gamewatch-mario",
+      "photo": 4,
+      "rectangle": {
+        "left": 303,
+        "top": 355,
+        "width": 270,
+        "height": 273
+      }
+    },
+    {
+      "id": "gamewatch-zelda",
+      "photo": 4,
+      "rectangle": {
+        "left": 16,
+        "top": 805,
+        "width": 270,
+        "height": 271
+      }
+    }
+  ],
+  "officialIllustration": {
+    "file": "ps5-slim.png",
+    "source": "https://gmedia.playstation.com/is/image/SIEPDC/ps5-slim-edition-left-image-block-01-en-24jun24?wid=800&fmt=png-alpha",
+    "note": "Official Sony illustration; supplied screenshot had no loaded photograph. Edition and included accessories may differ."
+  }
+}
